@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/agency-landing-page--5qllj6gtd)
+- Live Site URL: [Github Pages](https://birukl137.github.io/Agency-landing-page/)
 
 ## My process
 
@@ -111,9 +111,9 @@ In future projects, I’d like to focus more on:
 
 ### Useful resources
 
-[CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) – Helped me with advanced grid layouts.
+- [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) – Helped me with advanced grid layouts.
 
-[MDN Web Docs](https://developer.mozilla.org/) – My go-to reference for HTML, CSS, and JavaScript.
+- [MDN Web Docs](https://developer.mozilla.org/) – My go-to reference for HTML, CSS, and JavaScript.
 
 ## Author
 
